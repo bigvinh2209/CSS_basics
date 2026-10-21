@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+}
+
+p {
+    color: #ffffff;
+}
+
+h1 {
+    color: rgb(255,255,255);
+    font-family:'Courier New', Courier, monospace
+}
+
+/*border style made solid with width size 1*/
+
+li {
+    border-style: solid;
+    border-width: 1px;
+    color: rgb(255,255,255)
+}
+
+h4 {
+    color: rgba(0, 0, 0, 1);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
